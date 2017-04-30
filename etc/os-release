@@ -3,6 +3,9 @@ NAME="Subgraph OS"
 VERSION_ID="1.0"
 VERSION="1.0 (aaron)"
 ID=subgraphos
+ID_LIKE=debian
 HOME_URL="https://subgraph.com/sgos"
 SUPPORT_URL="https://github.com/subgraph/subgraph-os-issues"
 BUG_REPORT_URL="https://github.com/subgraph/subgraph-os-issues"
+VERSION_CODENAME=aaron
+
