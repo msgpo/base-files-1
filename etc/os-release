@@ -1,0 +1,8 @@
+PRETTY_NAME="Subgraph OS 1.0 (aaron)"
+NAME="Subgraph OS"
+VERSION_ID="1.0"
+VERSION="1.0 (aaron)"
+ID=subgraphos
+HOME_URL="https://subgraph.com/sgos"
+SUPPORT_URL="https://github.com/subgraph/subgraph-os-issues"
+BUG_REPORT_URL="https://github.com/subgraph/subgraph-os-issues"
